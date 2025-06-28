@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Lakshya 👋
 
-<!--
-**vylakshya/vylakshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad at Rajasthan Technical University  
+🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
+💻 Currently learning: C++, Data Structures and Algorithms, ROOT (by CERN), GSL  
+📊 Building projects in data parsing, simulation, and numerical methods  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Tools
+- C++, STL, ROOT, Git
+- GSL, Numerical Methods
+- Python (basic), Linux Shell
+
+---
+
+### 🔗 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-vyas4)
+- 📘 [LeetCode](https://leetcode.com/lakshy4)
+- 📘 [Codeforces](https://codeforces.com/profile/lakshy4)
+
