@@ -1,8 +1,11 @@
 # Hi, I'm Lakshya 👋
 
 🎓 CS Undergrad at Rajasthan Technical University  
+
 🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
+
 💻 Currently learning: C++, Data Structures and Algorithms, ROOT (by CERN), GSL, SDL 
+
 📊 Building projects in simulation and numerical methods  
 
 ---
