@@ -2,8 +2,8 @@
 
 🎓 CS Undergrad at Rajasthan Technical University  
 🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
-💻 Currently learning: C++, Data Structures and Algorithms, ROOT (by CERN), GSL  
-📊 Building projects in data parsing, simulation, and numerical methods  
+💻 Currently learning: C++, Data Structures and Algorithms, ROOT (by CERN), GSL, SDL
+📊 Building projects in simulation and numerical methods  
 
 ---
 
