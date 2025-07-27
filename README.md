@@ -1,4 +1,4 @@
-# Hi, I'm Lakshya 0
+# Hi, I'm Lakshya 
 
 🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
 
