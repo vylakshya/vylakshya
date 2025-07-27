@@ -1,6 +1,4 @@
-# Hi, I'm Lakshya 
-
-🎓 CS Undergrad at Rajasthan Technical University  
+# Hi, I'm Lakshya 0
 
 🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
 
