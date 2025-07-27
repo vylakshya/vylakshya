@@ -1,4 +1,4 @@
-# Hi, I'm Lakshya 👋
+# Hi, I'm Lakshya 
 
 🎓 CS Undergrad at Rajasthan Technical University  
 
