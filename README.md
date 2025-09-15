@@ -1,17 +1,17 @@
 # Hi, I'm Lakshya 
 
-🔬 Aspiring Researcher – passionate about Theoretical Physics & Scientific Computing  
+🔬 Aspiring Researcher – passionate about Scientific Computing and Computer Science  
 
-💻 Currently learning: C++, Data Structures and Algorithms, ROOT (by CERN), GSL, SDL 
+💻 Currently learning: ROOT (by CERN), GSL, SDL 
 
-📊 Building projects in simulation and numerical methods  
+📊 Building projects in simulation, numerical methods and Machine Learning 
 
 ---
 
 ### 🛠 Languages & Tools
 - C++, STL, ROOT, Git
 - GSL, Numerical Methods
-- Python (basic), Linux Shell
+- Python, Linux Shell
 
 ---
 
