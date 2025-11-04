@@ -1,8 +1,4 @@
-# Hi, I'm Lakshya 
-
-🔬 Aspiring Researcher – passionate about Scientific Computing and Computer Science  
-
-💻 Currently learning: ROOT (by CERN), GSL, SDL 
+# Yoo, I'm Lakshya
 
 📊 Building projects in simulation, numerical methods and Machine Learning 
 
