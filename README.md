@@ -13,6 +13,5 @@
 
 ### 🔗 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-vyas4)
-- 📘 [LeetCode](https://leetcode.com/lakshy4)
 - 📘 [Codeforces](https://codeforces.com/profile/lakshy4)
 
