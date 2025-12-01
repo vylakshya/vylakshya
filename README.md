@@ -1,4 +1,4 @@
-# Yoo, I'm Lakshya
+# Yoo, I'm लक्ष्य
 
 Building projects in simulation, numerical methods and Machine Learning 
 
