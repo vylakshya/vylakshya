@@ -1,4 +1,4 @@
-# Yoo, I'm लक्ष्य
+## I'm लक्ष्य
 
 Building projects in Numerical Methods, Systems and Graphics Programming and Deep Learning 
 
