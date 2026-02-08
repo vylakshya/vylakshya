@@ -1,6 +1,11 @@
 ## I'm लक्ष्य
 
-Building projects in Numerical Methods, Systems Programming, Graphics Programming and Deep Learning 
+Building projectss.
+Interests :
+-> Numerical Methods
+-> Systems Programming
+-> High Performance Computing
+-> Deep Learning 
 
 ---
 
