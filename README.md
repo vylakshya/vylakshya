@@ -1,6 +1,6 @@
 ## I'm लक्ष्य
 
-Building projectss.
+Building projects.
 Interests :
 -> Numerical Methods
 -> Systems Programming
