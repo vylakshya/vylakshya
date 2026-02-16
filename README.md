@@ -2,7 +2,6 @@
 
 Building projects.
 
-Interests :
 
 -> Numerical Methods
 
