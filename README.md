@@ -9,7 +9,6 @@ Building projects.
 
 -> High Performance Computing
 
--> Deep Learning 
 
 ---
 
